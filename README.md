@@ -1,4 +1,4 @@
-# QuantumByte
+# Matrix Calculator Program - C
 Matrix operations using 2D arrays in C
 
 This is my first 200+ lines code project in C.
